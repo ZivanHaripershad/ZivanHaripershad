@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zivanh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="zivanh7" height="30" width="40" /></a>
+<a href="https://twitter.com/zivanh7" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/twitter-1796358-1524229.png" alt="zivanh7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zivan haripershad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="zivan haripershad" height="30" width="40" /></a>
 <a href="https://instagram.com/zivanh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="zivanh" height="30" width="40" /></a>
 <a href="https://discord.gg/Fez#4508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="Fez#4508" height="30" width="40" /></a>
