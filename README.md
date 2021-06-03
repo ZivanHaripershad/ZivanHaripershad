@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zivanharipershad&label=Profile%20views&color=0e75b6&style=flat" alt="zivanharipershad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zivanharipershad" alt="zivanharipershad" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/zivanh7" target="blank"><img src="https://img.shields.io/twitter/follow/zivanh7?logo=twitter&style=for-the-badge" alt="zivanh7" /></a> </p>
 
 - 🔭 I’m currently working on [Odosla](https://github.com/COS301-SE-2021/Odosla)
