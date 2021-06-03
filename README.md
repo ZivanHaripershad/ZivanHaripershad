@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zivanh7" target="blank"><img align="center" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png" alt="zivanh7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zivan haripershad" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="zivan haripershad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zivan haripershad" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="zivan haripershad" height="30" width="40" /></a>
 <a href="https://instagram.com/zivanh" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="zivanh" height="30" width="40" /></a>
-<a href="https://discord.gg/Fez#4508" target="blank"><img align="center" src="https://c0.klipartz.com/pngpicture/842/992/gratis-png-discord-ordenadores-servidores-teamspeak-discord-icon-thumbnail.png" alt="Fez#4508" height="30" width="40" /></a>
+<a href="https://discord.gg/Fez#4508" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/307-3072089_discord-logo-computer-icons-reddit-discord-icon.png" alt="Fez#4508" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
