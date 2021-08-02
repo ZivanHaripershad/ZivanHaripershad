@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zivan</h1>
 <h3 align="center">A Multimedia Student at the University of Pretoria</h3>
 
+<div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zivanharipershad&label=Profile%20views&color=0e75b6&style=flat" alt="zivanharipershad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zivanh7" target="blank"><img src="https://img.shields.io/twitter/follow/zivanh7?logo=twitter&style=for-the-badge" alt="zivanh7" /></a> </p>
@@ -27,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zivanharipershad&show_icons=true&locale=en" alt="zivanharipershad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zivanharipershad&" alt="zivanharipershad" /></p>
+</div>
