@@ -6,6 +6,7 @@
 
 <p align> <a href="https://twitter.com/zivanh7" target="blank"><img src="https://img.shields.io/twitter/follow/zivanh7?logo=twitter&style=for-the-badge" alt="zivanh7" /></a> </p>
 <hr>
+  
 - 🔭 I’m currently working on [Odosla](https://github.com/COS301-SE-2021/Odosla)
 
 - 🌱 I’m currently learning **Flutter and Spring Boot**
