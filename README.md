@@ -4,7 +4,6 @@
 <div align="center">
 <p align> <img src="https://komarev.com/ghpvc/?username=zivanharipershad&label=Profile%20views&color=0e75b6&style=flat" alt="zivanharipershad" /> </p>
 
-<p align> <a href="https://twitter.com/zivanh7" target="blank"><img src="https://img.shields.io/twitter/follow/zivanh7?logo=twitter&style=for-the-badge" alt="zivanh7" /></a> </p>
 <hr>
   
 - 🔭 I’m currently working on [Odosla](https://github.com/COS301-SE-2021/Odosla)
@@ -17,7 +16,6 @@
 <hr>
 <h3 align>Connect with me:</h3>
 <p align>
-<a href="https://twitter.com/zivanh7" target="blank"><img align="center" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png" alt="zivanh7" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/zivan-haripershad-4368061b2/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="zivan haripershad" height="50" width="50" /></a>
 <a href="https://instagram.com/zivanh" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="zivanh" height="50" width="50" /></a>
 <a href="https://discord.gg/Fez#4508" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/307-3072089_discord-logo-computer-icons-reddit-discord-icon.png" alt="Fez#4508" height="50" width="50" /></a>
