@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zivan</h1>
-<h3 align="center">A Multimedia Student at the University of Pretoria</h3>
+<h3 align="center">Graduate Software Engineer</h3>
 
 <div align="center">
 <p align> <img src="https://komarev.com/ghpvc/?username=zivanharipershad&label=Profile%20views&color=0e75b6&style=flat" alt="zivanharipershad" /> </p>
