@@ -8,7 +8,7 @@
   
 - 🔭 I’m currently working on [Odosla](https://github.com/COS301-SE-2021/Odosla)
 
-- 🌱 I’m currently learning **Flutter and Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZivanHaripershad](https://github.com/ZivanHaripershad)
 
