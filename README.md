@@ -17,7 +17,6 @@
 <h3 align>Connect with me:</h3>
 <p align>
 <a href="https://www.linkedin.com/in/zivan-haripershad-4368061b2/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="zivan haripershad" height="50" width="50" /></a>
-<a href="https://instagram.com/zivanh" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="zivanh" height="50" width="50" /></a>
 <a href="https://discord.gg/Fez#4508" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/307-3072089_discord-logo-computer-icons-reddit-discord-icon.png" alt="Fez#4508" height="50" width="50" /></a>
 </p>
 <hr>
