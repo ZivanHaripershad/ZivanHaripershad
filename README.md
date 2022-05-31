@@ -8,7 +8,7 @@
   
 - 🔭 I’m currently working at DVT
 
-- 🌱 I’m currently learning **Spring Cloud** and Microservices
+- 🌱 I’m currently learning **Spring Cloud** and **Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZivanHaripershad](https://github.com/ZivanHaripershad)
 
