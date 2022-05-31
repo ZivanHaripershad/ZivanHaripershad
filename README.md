@@ -6,9 +6,9 @@
 
 <hr>
   
-- 🔭 I’m currently working on [Odosla](https://github.com/COS301-SE-2021/Odosla)
+- 🔭 I’m currently working at DVT
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Cloud** and Microservices
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZivanHaripershad](https://github.com/ZivanHaripershad)
 
